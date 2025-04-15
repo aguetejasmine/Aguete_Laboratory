@@ -28,8 +28,6 @@ public class SchoolTest {
         System.out.println("Grade Level: ");
         String studentGradeLevel = scanner.nextLine();
  
-       
- 
         System.out.println("Enter Teacher details!");
         System.out.println("Name:");
         String teacherName = scanner.nextLine();
@@ -51,7 +49,7 @@ public class SchoolTest {
  
         scanner.nextLine();
  
-        System.out.println("Department:");
+        System.out.println("Department: ");
         String staffDepartment = scanner.nextLine();
  
         scanner.nextLine();
